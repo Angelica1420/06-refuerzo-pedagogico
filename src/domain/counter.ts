@@ -52,7 +52,7 @@ export interface ContadorConfig {
  * calcularValor({ valor: 5, paso: 1, minimo: 0, maximo: 10 }, 'incrementar'); 
  */ 
 export function calcularValor(config: ContadorConfig, direccion: Direccion): number { 
-  // 👇 reemplaza este return por tu lógica de cálculo 
+  // reemplaza este return por tu lógica de cálculo 
   const siguiente =
     direccion === 'incrementar'
       ? config.valor + config.paso
