@@ -4,7 +4,7 @@
  * Módulo: Programación Móvil — 3° Bachillerato Técnico (UETS)
  * ============================================================================
  *
- * 📖 MISIÓN:
+ * MISIÓN:
  * Conectar el dominio (Reto 01) con los componentes (Retos 02 y 03) usando
  * `useState` directamente en la pantalla. NADA de custom hooks todavía: eso
  * llega en la Semana 09.
