@@ -4,7 +4,7 @@
  * Módulo: Programación Móvil — 3° Bachillerato Técnico (UETS)
  * ============================================================================
  *
- * 📖 MISIÓN:
+ * MISIÓN:
  * Componente "dummy": NO tiene estado, NO usa hooks. Solo recibe datos por
  * props y los dibuja. Debe reutilizarse para los 3 contadores del Bar Salesiano.
  *
