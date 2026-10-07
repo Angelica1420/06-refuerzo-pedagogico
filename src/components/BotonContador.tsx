@@ -9,7 +9,7 @@
  *
  * 🎨 Paleta UETS (referencia): primary #FDE047 · secondary #38BDF8 · danger #F43F5E
  *
- * 🛠️ RETO (responde con código):
+ *  RETO (responde con código):
  *  1. ¿Dónde se aplica la variante recibida por props dentro del estilo del botón?
  *  2. ¿Qué propiedad de estilo le falta a cada variante para verse con su color?
  *  3. Ejecuta en tu terminal: `pnpm run start:03`
